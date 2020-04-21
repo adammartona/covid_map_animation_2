@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="473px" height="426px" viewBox="0 0 473 426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>7FE4A7CA-3AFC-4596-971C-4335D0A9F11C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="317 930.518866 519.892066 930.518866 778.861671 926 786 1209.9991 786 1337.47151 527.291553 1337.47151 438.9765 1341.71707 317 1348"></polygon>
+    </defs>
+    <g id="dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="assets" transform="translate(-315.000000, -924.000000)">
+            <g id="bentiu-1">
+                <use stroke="#648878" stroke-width="2.5" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="2" d="M777.886922,927.017161 L519.90079,931.518866 L318,931.518866 L318,1346.94716 L438.925059,1340.71839 L527.26753,1336.47151 L785,1336.47151 L785,1210.01167 L777.886922,927.017161 Z" stroke-linejoin="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
